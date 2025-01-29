@@ -1,0 +1,16 @@
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\config\SecurityConfig.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\controller\UserController.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\controller\UserControllerTest.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\dto\LoginRequest.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\dto\LoginResponse.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\model\User.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\payload\LoginRequest.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\repository\UserRepository.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\security\JwtFilter.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\security\JwtUtil.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\service\impl\CustomUserDetailsService.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\service\impl\UserServiceImpl.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\service\OtpService.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\service\UserService.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\sms\TwilioService.java
+C:\Users\kachi\Downloads\user-auth-system\user-auth-system\src\main\java\com\example\authsystem\UserAuthSystemApplication.java
